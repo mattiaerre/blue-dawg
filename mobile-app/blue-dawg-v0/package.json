@@ -1,0 +1,24 @@
+{
+  "name": "blue-dawg-v0",
+  "version": "0.1.0",
+  "description": "blue-dawg-v0",
+  "author": {
+    "name": "Mattia Richetto",
+    "email": "mattia.richetto@gmail.com"
+  },
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@exponent/vector-icons": "~2.0.3",
+    "eslint-config-opentable": "^6.0.0",
+    "exponent": "~11.0.2",
+    "react": "~15.3.2",
+    "react-native": "git+https://github.com/exponentjs/react-native#sdk-11.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.10.2",
+    "eslint-config-opentable": "^6.0.0",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}
